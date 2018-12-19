@@ -9,9 +9,10 @@ PULL REQUESTS ARE WELCOME!
 ### Kubernetes introductions
 
  - [Kubernetes Community Overview and Contributions Guide](https://docs.google.com/presentation/d/1JqcALpsg07eH665ZXQrIvOcin6SzzsIUjMRRVivrZMg) by Ihor Dvoretskyi
- - [Intro to the cloud-native world of Kubernetes](https://speakerdeck.com/luxas/intro-to-the-cloud-native-world-of-kubernetes-helsinki-october-meetup) by Lucas Käldström ([Kubernetes & CNCF Finland meetup](https://www.meetup.com/Kubernetes-Finland/), Oct 4, 2017)
+ - [Intro to the cloud-native world of Kubernetes](https://speakerdeck.com/luxas/intro-to-the-cloud-native-world-of-kubernetes-november-2018) by Lucas Käldström ([Kubernetes & CNCF Finland meetup](https://www.meetup.com/Kubernetes-Finland/), Nov 20, 2018)
  - [How to Contribute to Kubernetes](https://docs.google.com/presentation/d/1NJfoXynMw1LXT2jrGm8zaE7uP8Mtz5A0isdzmxISCkk/edit?usp=sharing) by Nikhita Raghunath (KubeCon+CloudNativeCon North America 2017)
  - [Introduction to Kubernetes Workshop (full-day)](https://docs.google.com/presentation/d/1zrfVlE5r61ZNQrmXKx5gJmBcXnoa_WerHEnTxu5SMco/edit?usp=sharing) by Bob Killen and Jeff Sica (July 17, 2018)
+ - [Kubernetes New Contributor Workshop](https://docs.google.com/presentation/d/1cgEw0t8oeokaN44piqmEemul2gQBqZX5wvj6NncqPFI/edit?usp=sharing) by Guinevere Saenger, Josh Berkus, Noah Abrahams, Tim Pepper, Zach Corleissen, and Michelle Shephardson (KubeCon+CloudNativeCon North America 2018)
 
 ### Kubernetes Updates
 
@@ -45,5 +46,17 @@ If you have your slides already online or hosted someplace else, just leave a li
 
 **FORMAT**: We prefer if your slides were in a reusable format, such as Google Slides or whatever CSS/HTML/JS framework you prefer so it's easier to consume.
 
-Please make sure your content is under the Apache v2.0 or CC-BY license to we can easily share and reuse the content.
+Please make sure your content is under the CC-BY (or Apache v2.0 if applicable) license to we can easily share and reuse the content.
+
+### How To Use The CC-BY License
+
+For most presentations, the best license to use is [CC-BY](https://creativecommons.org/licenses/by/4.0/). This license allows other Kubernetes community members to share, reuse, and remix your content for other talks and presentations. You retain ownership of your slides, and anyone using them must give you attribution as the original author.
+
+To apply the license to your presentation, add a slide (usually near the end) like:
+
+```
+This presentation is licensed under a Creative Commons Attribution 4.0 International License.
+
+See https://creativecommons.org/licenses/by/4.0/ for more details.
+```
 
